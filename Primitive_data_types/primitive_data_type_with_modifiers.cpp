@@ -20,6 +20,13 @@ int main(){
 
     cout << "size of bool is " << sizeof(d)<< endl;
 
+    short int si;
+
+    cout << "size of short integer is " << sizeof(si)<< endl;
+
+    long int li;
+    
+    cout << "size of long integer is " << sizeof(li)<< endl;
 
     return 0 ;
 }
